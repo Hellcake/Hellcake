@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Hi there! I'm Alexander Solovov, a Python backend developer.<br><br>Here's what I do:<br><br>-Build and maintain chatbots: I use the Telegram Bot API, integrating with LLMs like ChatGPT and Yandex GPT, and working with PostgreSQL.<br><br>-Automate data processes: I'm fluent in Python, handling everything from data collection to generating reports and analyzing feedback.<br><br>-Backend development: I'm experienced with REST APIs, database management (MySQL), and optimizing existing code. I deploy using Docker.<br><br>F-rameworks & Languages: I'm comfortable using Flask and Langchain, along with JavaScript, Node.js, and PyTorch. I use Git for version control, of course!<br><br>-Currently studying: Informatics and Computer Engineering at St. Petersburg Polytechnic University.</p>
+<p align="left">Hi there! I'm Alexander Solovov, a Python backend developer.<br><br>Here's what I do:<br><br>-Build and maintain chatbots: I use the Telegram Bot API, integrating with LLMs like ChatGPT and Yandex GPT, and working with MySQL.<br><br>-Automate data processes: I'm fluent in Python, handling everything from data collection to generating reports and analyzing feedback.<br><br>-Backend development: I'm experienced with REST APIs, database management (MySQL), and optimizing existing code. I deploy using Docker.<br><br>-Frameworks & Languages: I'm comfortable using Flask and Langchain, along with JavaScript, Node.js, and PyTorch. I use Git for version control, of course!<br><br>-Currently studying: Informatics and Computer Engineering at St. Petersburg Polytechnic University.</p>
 
 ###
 
