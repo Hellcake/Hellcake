@@ -30,11 +30,6 @@
   I hold a BSc in Computer Science and Engineering from Peter the Great St. Petersburg Polytechnic University. My thesis focused on automating IT support in a VFX production studio and was deployed in the studio's production environment.
 </p>
 
-###
-
-<img align="right" height="160" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN5ZTQ2bnFtNmFnZWw3ZzV6ZHpkNnRxaHBnbnQ4eGt1ODl0cmhzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWu82QD3pj4wvEQ/giphy.gif" />
-
-###
 
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="36" alt="linux logo" />
